@@ -15,7 +15,7 @@ def next_fixture():
     links = [l.get("href") for l in links]
     links = [l for l in links if '/squads/' in l]
     team_urls = [f"https://fbref.com{l}" for l in links]
-    for team_url in team_urls[0:1]:
+    for team_url in team_urls:
         data = requests.get(team_url)
         team_name = team_url.split('/')[-1].replace("-Stats", "").replace("-", " ")
         matches = pd.read_html(StringIO(data.text), match="Scores & Fixtures")[0]
@@ -33,7 +33,7 @@ def next_fixture():
             print(f"date:{future_matches.iloc[0]['Date'].date()}, {team_name} VS {future_matches.iloc[0]['Opponent']}")
         else:
             continue
-        time.sleep(5)
+        time.sleep(10)
     return fixtures
 
 print(next_fixture())
