@@ -5,7 +5,7 @@ import requests
 # 获取数据
 url = "https://fbref.com/en/squads/8602292d/2024-2025/matchlogs/all_comps/shooting/Aston-Villa-Match-Logs-All-Competitions"
 data = requests.get(url)
-print(data)
+print(data.text)
 # 读取和处理数据
 try:
     shooting = pd.read_html(StringIO(data.text), match="Shooting")[0]
