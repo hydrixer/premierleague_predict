@@ -4,6 +4,7 @@ on:
   schedule:
     # 每天凌晨 8 点（UTC）运行
     - cron: "0 8 * * *"
+  workflow_dispatch:
 
 jobs:
   execute-notebook:
