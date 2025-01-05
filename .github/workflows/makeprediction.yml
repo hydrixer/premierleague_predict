@@ -10,14 +10,14 @@ jobs:
   execute-notebook:
     runs-on: ubuntu-latest
 
+    permissions:
+      pages: write
+      contents: write
+
     steps:
     # 检出代码
     - name: Checkout repository
       uses: actions/checkout@v3
-
-    permissions:
-      pages: write
-      contents: write
 
     # 设置 Python 环境
     - name: Setup Python
