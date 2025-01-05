@@ -1,4 +1,4 @@
-name: Run Notebook Daily
+name: Predict Daily
 
 on:
   schedule:
