@@ -2,7 +2,6 @@ name: Predict Daily
 
 on:
   schedule:
-    # 每天凌晨 8 点（UTC）运行
     - cron: "0 8 * * *"
   workflow_dispatch:
 
@@ -15,11 +14,10 @@ jobs:
       contents: write
 
     steps:
-    # 检出代码
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # 设置 Python 环境
+    # set env
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
@@ -31,13 +29,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    # 运行 Jupyter Notebook
+    # Run Notebook
     - name: Run Jupyter Notebook
       run: |
         cd code
         jupyter nbconvert --to notebook --execute forecast1.ipynb
 
-    # 可选：将执行结果保存到 GitHub 仓库
     - name: GitHub Pages Publish
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
