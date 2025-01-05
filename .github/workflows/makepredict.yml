@@ -1,0 +1,46 @@
+name: Run Notebook Daily
+
+on:
+  schedule:
+    # 每天凌晨 8 点（UTC）运行
+    - cron: "0 8 * * *"
+
+jobs:
+  execute-notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 检出代码
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # 设置 Python 环境
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+    - name: install python packages
+      run: |
+        cd code
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    # 运行 Jupyter Notebook
+    - name: Run Jupyter Notebook
+      run: |
+        jupyter nbconvert --to notebook --execute forecast1.ipynb
+
+    # 可选：将执行结果保存到 GitHub 仓库
+    - name: GitHub Pages Publish
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "prediction result published"
+        commit_options: '--no-verify --signoff'
+        file_pattern: './*'
+        repository: .
+        status_options: '--untracked-files=no'
+        skip_dirty_check: true
+        skip_fetch: true
+        skip_checkout: true
+        push_options: '--force'
