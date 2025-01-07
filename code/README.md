@@ -18,7 +18,7 @@ Here are the latest predictions for upcoming football matches:
   <tr>
     <td>2025-01-14</td>
     <td><img src='logos/NottinghamForest.svg' alt='Nottingham Forest' width='50'> Nottingham Forest</td>
-    <td><img src='' alt='Liverpool' width='50'> Liverpool</td>
+    <td><img src='logos/Liverpool.svg' alt='Liverpool' width='50'> Liverpool</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-01-07 15:11:13*
+*Generated on: 2025-01-07 16:39:25*
 
