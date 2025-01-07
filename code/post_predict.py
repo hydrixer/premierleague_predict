@@ -21,7 +21,8 @@ team_logos = {
     "Ipswich Town": "logos/IpswichTown.svg",
     "Brighton and Hove Albion": "logos/BrightonHoveAlbion.svg",
     "Leicester City": "logos/LeicesterCity.svg",
-    "Crystal Palace": "logos/CrystalPalace.svg"
+    "Crystal Palace": "logos/CrystalPalace.svg",
+    "Liverpool": "logos/Liverpool.svg"
 }
 
 def update_ui():
