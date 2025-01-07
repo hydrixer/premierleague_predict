@@ -2,7 +2,7 @@ name: Data Update
 
 on:
   schedule:
-    - cron: "0 8 */2 * *" #every 2 days
+    - cron: "0 6 */2 * *" #every 2 days
   workflow_dispatch:
 
 jobs:
