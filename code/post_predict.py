@@ -15,7 +15,7 @@ team_logos = {
     "West Ham United": "logos/WestHamUnited.svg",
     "Fulham": "logos/Fulham.svg",
     "Everton": "logos/Everton.svg",
-    "Aston Villa": "logos/Astonvilla.svg",
+    "Aston Villa": "logos/AstonVilla.svg",
     "Nottingham Forest": "logos/NottinghamForest.svg",
     "Ipswich Town": "logos/IpswichTown.svg",
     "Brighton and Hove Albion": "logos/BrightonHoveAlbion.svg",
