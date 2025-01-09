@@ -31,7 +31,7 @@ Here are the latest predictions for upcoming football matches:
     <td>2025-01-15</td>
     <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
     <td><img src='logos/WolverhamptonWanderers.svg' alt='Wolverhampton Wanderers' width='50'> Wolverhampton Wanderers</td>
-    <td>Draw or Lose</td>
+    <td>Win</td>
   </tr>
   <tr>
     <td>2025-01-14</td>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-01-08 08:21:55*
+*Generated on: 2025-01-09 08:21:16*
 
