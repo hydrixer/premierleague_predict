@@ -40,16 +40,16 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
+    <td>2025-01-19</td>
+    <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
+    <td><img src='logos/BrightonHoveAlbion.svg' alt='Brighton and Hove Albion' width='50'> Brighton and Hove Albion</td>
+    <td>Draw or Lose</td>
+  </tr>
+  <tr>
     <td>2025-01-18</td>
     <td><img src='logos/WestHamUnited.svg' alt='West Ham United' width='50'> West Ham United</td>
     <td><img src='logos/CrystalPalace.svg' alt='Crystal Palace' width='50'> Crystal Palace</td>
     <td>Draw or Lose</td>
-  </tr>
-  <tr>
-    <td>2025-01-16</td>
-    <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
-    <td><img src='logos/Southampton.svg' alt='Southampton' width='50'> Southampton</td>
-    <td>Win</td>
   </tr>
   <tr>
     <td>2025-01-19</td>
@@ -58,9 +58,9 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-01-16</td>
+    <td>2025-01-19</td>
     <td><img src='logos/IpswichTown.svg' alt='Ipswich Town' width='50'> Ipswich Town</td>
-    <td><img src='logos/BrightonHoveAlbion.svg' alt='Brighton and Hove Albion' width='50'> Brighton and Hove Albion</td>
+    <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-01-16 08:20:38*
+*Generated on: 2025-01-17 08:20:32*
 
