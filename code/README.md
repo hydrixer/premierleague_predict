@@ -16,10 +16,10 @@ Here are the latest predictions for upcoming football matches:
     <td>Win</td>
   </tr>
   <tr>
-    <td>2025-01-19</td>
-    <td><img src='logos/NottinghamForest.svg' alt='Nottingham Forest' width='50'> Nottingham Forest</td>
-    <td><img src='logos/Southampton.svg' alt='Southampton' width='50'> Southampton</td>
-    <td>Win</td>
+    <td>2025-01-25</td>
+    <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
+    <td><img src='logos/Chelsea.svg' alt='Chelsea' width='50'> Chelsea</td>
+    <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-01-20</td>
@@ -40,6 +40,12 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
+    <td>2025-01-25</td>
+    <td><img src='logos/BrightonHoveAlbion.svg' alt='Brighton and Hove Albion' width='50'> Brighton and Hove Albion</td>
+    <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
+    <td>Draw or Lose</td>
+  </tr>
+  <tr>
     <td>2025-01-26</td>
     <td><img src='logos/Fulham.svg' alt='Fulham' width='50'> Fulham</td>
     <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
@@ -52,23 +58,17 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-01-19</td>
-    <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
-    <td><img src='logos/BrightonHoveAlbion.svg' alt='Brighton and Hove Albion' width='50'> Brighton and Hove Albion</td>
-    <td>Draw or Lose</td>
-  </tr>
-  <tr>
-    <td>2025-01-19</td>
-    <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
+    <td>2025-01-26</td>
     <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
-    <td>Draw or Lose</td>
+    <td><img src='logos/LeicesterCity.svg' alt='Leicester City' width='50'> Leicester City</td>
+    <td>Win</td>
   </tr>
   <tr>
-    <td>2025-01-19</td>
-    <td><img src='logos/IpswichTown.svg' alt='Ipswich Town' width='50'> Ipswich Town</td>
-    <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
+    <td>2025-01-25</td>
+    <td><img src='logos/Southampton.svg' alt='Southampton' width='50'> Southampton</td>
+    <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-01-19 08:18:51*
+*Generated on: 2025-01-20 08:22:09*
 
