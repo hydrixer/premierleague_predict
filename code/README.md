@@ -40,28 +40,16 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-01-26</td>
-    <td><img src='logos/AstonVilla.svg' alt='Aston Villa' width='50'> Aston Villa</td>
-    <td><img src='logos/WestHamUnited.svg' alt='West Ham United' width='50'> West Ham United</td>
-    <td>Draw or Lose</td>
-  </tr>
-  <tr>
-    <td>2025-01-26</td>
-    <td><img src='logos/Fulham.svg' alt='Fulham' width='50'> Fulham</td>
-    <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
-    <td>Draw or Lose</td>
-  </tr>
-  <tr>
-    <td>2025-01-26</td>
-    <td><img src='logos/CrystalPalace.svg' alt='Crystal Palace' width='50'> Crystal Palace</td>
+    <td>2025-02-02</td>
     <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
-    <td>Draw or Lose</td>
+    <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
+    <td>Win</td>
   </tr>
   <tr>
-    <td>2025-01-26</td>
-    <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
-    <td><img src='logos/LeicesterCity.svg' alt='Leicester City' width='50'> Leicester City</td>
-    <td>Win</td>
+    <td>2025-02-02</td>
+    <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
+    <td><img src='logos/CrystalPalace.svg' alt='Crystal Palace' width='50'> Crystal Palace</td>
+    <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-02-01</td>
@@ -82,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-01-26 08:19:22*
+*Generated on: 2025-01-27 08:26:10*
 
