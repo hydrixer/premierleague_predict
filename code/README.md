@@ -13,7 +13,7 @@ Here are the latest predictions for upcoming football matches:
     <td>2025-02-02</td>
     <td><img src='logos/Arsenal.svg' alt='Arsenal' width='50'> Arsenal</td>
     <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
-    <td>Win</td>
+    <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-02-01</td>
@@ -43,7 +43,7 @@ Here are the latest predictions for upcoming football matches:
     <td>2025-02-02</td>
     <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
     <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
-    <td>Win</td>
+    <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-02-02</td>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-01-28 08:21:31*
+*Generated on: 2025-01-29 08:21:13*
 
