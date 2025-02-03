@@ -10,10 +10,10 @@ Here are the latest predictions for upcoming football matches:
     <th>Predicted Result for Home</th>
   </tr>
   <tr>
-    <td>2025-02-02</td>
-    <td><img src='logos/Arsenal.svg' alt='Arsenal' width='50'> Arsenal</td>
+    <td>2025-02-15</td>
     <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
-    <td>Draw or Lose</td>
+    <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
+    <td>Win</td>
   </tr>
   <tr>
     <td>2025-02-03</td>
@@ -31,7 +31,7 @@ Here are the latest predictions for upcoming football matches:
     <td>2025-02-15</td>
     <td><img src='logos/Fulham.svg' alt='Fulham' width='50'> Fulham</td>
     <td><img src='logos/NottinghamForest.svg' alt='Nottingham Forest' width='50'> Nottingham Forest</td>
-    <td>Draw or Lose</td>
+    <td>Win</td>
   </tr>
   <tr>
     <td>2025-02-14</td>
@@ -40,15 +40,15 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-02-02</td>
-    <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
-    <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
-    <td>Draw or Lose</td>
+    <td>2025-02-15</td>
+    <td><img src='logos/CrystalPalace.svg' alt='Crystal Palace' width='50'> Crystal Palace</td>
+    <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
+    <td>Win</td>
   </tr>
   <tr>
-    <td>2025-02-02</td>
+    <td>2025-02-16</td>
+    <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
     <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
-    <td><img src='logos/CrystalPalace.svg' alt='Crystal Palace' width='50'> Crystal Palace</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-02 08:18:58*
+*Generated on: 2025-02-03 08:24:04*
 
