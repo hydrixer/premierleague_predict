@@ -16,12 +16,6 @@ Here are the latest predictions for upcoming football matches:
     <td>Win</td>
   </tr>
   <tr>
-    <td>2025-02-03</td>
-    <td><img src='logos/Chelsea.svg' alt='Chelsea' width='50'> Chelsea</td>
-    <td><img src='logos/WestHamUnited.svg' alt='West Ham United' width='50'> West Ham United</td>
-    <td>Win</td>
-  </tr>
-  <tr>
     <td>2025-02-15</td>
     <td><img src='logos/AstonVilla.svg' alt='Aston Villa' width='50'> Aston Villa</td>
     <td><img src='logos/IpswichTown.svg' alt='Ipswich Town' width='50'> Ipswich Town</td>
@@ -52,6 +46,12 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
+    <td>2025-02-15</td>
+    <td><img src='logos/WestHamUnited.svg' alt='West Ham United' width='50'> West Ham United</td>
+    <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
+    <td>Draw or Lose</td>
+  </tr>
+  <tr>
     <td>2025-02-12</td>
     <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
     <td><img src='logos/Liverpool.svg' alt='Liverpool' width='50'> Liverpool</td>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-03 08:24:04*
+*Generated on: 2025-02-04 08:21:51*
 
