@@ -40,9 +40,9 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-02-19</td>
+    <td>2025-02-22</td>
     <td><img src='logos/AstonVilla.svg' alt='Aston Villa' width='50'> Aston Villa</td>
-    <td><img src='logos/Liverpool.svg' alt='Liverpool' width='50'> Liverpool</td>
+    <td><img src='logos/Chelsea.svg' alt='Chelsea' width='50'> Chelsea</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-19 08:22:20*
+*Generated on: 2025-02-20 08:21:58*
 
