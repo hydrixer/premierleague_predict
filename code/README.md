@@ -46,6 +46,12 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
+    <td>2025-02-26</td>
+    <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
+    <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
+    <td>Win</td>
+  </tr>
+  <tr>
     <td>2025-02-22</td>
     <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
     <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
@@ -58,17 +64,11 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-02-21</td>
-    <td><img src='logos/LeicesterCity.svg' alt='Leicester City' width='50'> Leicester City</td>
-    <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
-    <td>Draw or Lose</td>
-  </tr>
-  <tr>
     <td>2025-02-22</td>
     <td><img src='logos/Southampton.svg' alt='Southampton' width='50'> Southampton</td>
     <td><img src='logos/BrightonHoveAlbion.svg' alt='Brighton and Hove Albion' width='50'> Brighton and Hove Albion</td>
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-21 08:21:32*
+*Generated on: 2025-02-22 08:19:14*
 
