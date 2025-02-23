@@ -1,11 +1,11 @@
 Date	Home Team	Away Team	Result
-2025-02-22	Arsenal	West Ham United	Win
 2025-02-23	Manchester City	Liverpool	Draw or Lose
-2025-02-22	Bournemouth	Wolverhampton Wanderers	Win
+2025-02-25	Chelsea	Southampton	Win
 2025-02-23	Newcastle United	Nottingham Forest	Win
-2025-02-22	Fulham	Crystal Palace	Draw or Lose
-2025-02-22	Aston Villa	Chelsea	Draw or Lose
+2025-02-25	Brighton and Hove Albion	Bournemouth	Draw or Lose
 2025-02-26	Brentford	Everton	Win
-2025-02-22	Everton	Manchester United	Draw or Lose
-2025-02-22	Ipswich Town	Tottenham Hotspur	Draw or Lose
-2025-02-22	Southampton	Brighton and Hove Albion	Draw or Lose
+2025-02-26	Tottenham Hotspur	Manchester City	Draw or Lose
+2025-02-25	Crystal Palace	Aston Villa	Win
+2025-02-26	Manchester United	Ipswich Town	Win
+2025-02-27	West Ham United	Leicester City	Draw or Lose
+2025-02-25	Wolverhampton Wanderers	Fulham	Draw or Lose
