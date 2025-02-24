@@ -10,21 +10,21 @@ Here are the latest predictions for upcoming football matches:
     <th>Predicted Result for Home</th>
   </tr>
   <tr>
-    <td>2025-02-23</td>
-    <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
+    <td>2025-02-26</td>
     <td><img src='logos/Liverpool.svg' alt='Liverpool' width='50'> Liverpool</td>
+    <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
+    <td>Win</td>
+  </tr>
+  <tr>
+    <td>2025-02-26</td>
+    <td><img src='logos/NottinghamForest.svg' alt='Nottingham Forest' width='50'> Nottingham Forest</td>
+    <td><img src='logos/Arsenal.svg' alt='Arsenal' width='50'> Arsenal</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-02-25</td>
     <td><img src='logos/Chelsea.svg' alt='Chelsea' width='50'> Chelsea</td>
     <td><img src='logos/Southampton.svg' alt='Southampton' width='50'> Southampton</td>
-    <td>Win</td>
-  </tr>
-  <tr>
-    <td>2025-02-23</td>
-    <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
-    <td><img src='logos/NottinghamForest.svg' alt='Nottingham Forest' width='50'> Nottingham Forest</td>
     <td>Win</td>
   </tr>
   <tr>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-23 08:20:47*
+*Generated on: 2025-02-24 08:22:32*
 
