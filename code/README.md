@@ -61,7 +61,7 @@ Here are the latest predictions for upcoming football matches:
     <td>2025-02-27</td>
     <td><img src='logos/WestHamUnited.svg' alt='West Ham United' width='50'> West Ham United</td>
     <td><img src='logos/LeicesterCity.svg' alt='Leicester City' width='50'> Leicester City</td>
-    <td>Draw or Lose</td>
+    <td>Win</td>
   </tr>
   <tr>
     <td>2025-02-25</td>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-24 08:22:32*
+*Generated on: 2025-02-25 08:22:14*
 
