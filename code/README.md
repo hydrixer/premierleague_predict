@@ -10,15 +10,15 @@ Here are the latest predictions for upcoming football matches:
     <th>Predicted Result for Home</th>
   </tr>
   <tr>
-    <td>2025-02-26</td>
+    <td>2025-03-08</td>
     <td><img src='logos/Liverpool.svg' alt='Liverpool' width='50'> Liverpool</td>
-    <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
+    <td><img src='logos/Southampton.svg' alt='Southampton' width='50'> Southampton</td>
     <td>Win</td>
   </tr>
   <tr>
-    <td>2025-02-26</td>
+    <td>2025-03-08</td>
     <td><img src='logos/NottinghamForest.svg' alt='Nottingham Forest' width='50'> Nottingham Forest</td>
-    <td><img src='logos/Arsenal.svg' alt='Arsenal' width='50'> Arsenal</td>
+    <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
@@ -34,9 +34,9 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-02-26</td>
+    <td>2025-03-08</td>
     <td><img src='logos/Brentford.svg' alt='Brentford' width='50'> Brentford</td>
-    <td><img src='logos/Everton.svg' alt='Everton' width='50'> Everton</td>
+    <td><img src='logos/AstonVilla.svg' alt='Aston Villa' width='50'> Aston Villa</td>
     <td>Win</td>
   </tr>
   <tr>
@@ -46,16 +46,16 @@ Here are the latest predictions for upcoming football matches:
     <td>Win</td>
   </tr>
   <tr>
-    <td>2025-02-26</td>
+    <td>2025-03-09</td>
     <td><img src='logos/TottenhamHotspur.svg' alt='Tottenham Hotspur' width='50'> Tottenham Hotspur</td>
-    <td><img src='logos/ManchesterCity.svg' alt='Manchester City' width='50'> Manchester City</td>
+    <td><img src='logos/Bournemouth.svg' alt='Bournemouth' width='50'> Bournemouth</td>
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-02-26</td>
+    <td>2025-03-09</td>
     <td><img src='logos/ManchesterUnited.svg' alt='Manchester United' width='50'> Manchester United</td>
-    <td><img src='logos/IpswichTown.svg' alt='Ipswich Town' width='50'> Ipswich Town</td>
-    <td>Win</td>
+    <td><img src='logos/Arsenal.svg' alt='Arsenal' width='50'> Arsenal</td>
+    <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-02-27</td>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-26 08:22:12*
+*Generated on: 2025-02-27 08:21:51*
 
