@@ -58,10 +58,10 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
   <tr>
-    <td>2025-02-27</td>
+    <td>2025-03-10</td>
     <td><img src='logos/WestHamUnited.svg' alt='West Ham United' width='50'> West Ham United</td>
-    <td><img src='logos/LeicesterCity.svg' alt='Leicester City' width='50'> Leicester City</td>
-    <td>Win</td>
+    <td><img src='logos/NewcastleUnited.svg' alt='Newcastle United' width='50'> Newcastle United</td>
+    <td>Draw or Lose</td>
   </tr>
   <tr>
     <td>2025-03-08</td>
@@ -70,5 +70,5 @@ Here are the latest predictions for upcoming football matches:
     <td>Draw or Lose</td>
   </tr>
 </table>
-*Generated on: 2025-02-27 08:21:51*
+*Generated on: 2025-02-28 08:21:40*
 
